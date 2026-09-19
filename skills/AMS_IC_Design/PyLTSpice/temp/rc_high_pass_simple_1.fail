@@ -1,0 +1,19 @@
+LTspice 24.1.10 for Windows
+Circuit: C:\Users\misil\OneDrive\Documents\professional_development\AMS Learning\PyLTSpice\temp\rc_high_pass_simple_1.net
+Start Time: Sat Jul 25 14:02:17 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node n002 is floating.
+
+.OP point found by inspection.
+
+Simulation Failed: Matrix is singular
+
+Total elapsed time: 0.061 seconds.
+
+Files loaded:
+C:\Users\misil\OneDrive\Documents\professional_development\AMS Learning\PyLTSpice\temp\rc_high_pass_simple_1.net
+
